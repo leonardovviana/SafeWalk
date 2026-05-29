@@ -35,6 +35,15 @@ Para a turma acessar pelo celular, hospede de graça:
 
 > O PWA precisa de **HTTPS** (que o GitHub Pages fornece) para instalar e funcionar offline.
 
+## 🎨 Ícones PNG (para iPhone)
+
+Os ícones são SVG (perfeitos no Android). Para o iPhone usar o ícone personalizado, gere os PNGs:
+1. Abra **`gerar-icones.html`** no navegador
+2. Clique em **“Baixar todos os ícones”**
+3. Mova os PNGs baixados para esta pasta e faça commit
+
+O `manifest` e o `<head>` já apontam para esses PNGs.
+
 ## 📁 Arquivos
 
 | Arquivo | Função |
